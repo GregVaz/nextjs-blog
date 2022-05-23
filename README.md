@@ -1,5 +1,7 @@
 # Learning Next.js
 
+Documentation: [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
+
 ## Instructions
 
 1. Install `yarn` in case you do not have installed 
